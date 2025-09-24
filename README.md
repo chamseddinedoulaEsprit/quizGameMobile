@@ -40,7 +40,7 @@ L'application comprend plusieurs écrans principaux :
 ### Installation
 1. Clonez le repository :
 ```bash
-git clone https://github.com/chamseddinedoulaEsprit/quizGameMobile.git
+git clone https://github.com/chamseddinedoulaEsprit/QuizOff.git
 cd quizoff
 ```
 
